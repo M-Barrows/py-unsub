@@ -23,9 +23,9 @@ You are welcome to create PRs for this project. I don't have a grand vision othe
 
 # To-Do List
 
-- [x] Open all unsubscribe links at once
+- [x] ~~Open all unsubscribe links at once~~
 
-- [x] Give option to Select All
+- [x] ~~Give option to Select All~~
 
 - [ ] Package code into executable (Windows only for now)
 
