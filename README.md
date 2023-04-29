@@ -23,16 +23,16 @@ You are welcome to create PRs for this project. I don't have a grand vision othe
 
 # To-Do List
 
-[x] Open all unsubscribe links at once
+- [x] Open all unsubscribe links at once
 
-[x] Give option to Select All
+- [x] Give option to Select All
 
-[ ] Package code into executable (Windows only for now)
+- [ ] Package code into executable (Windows only for now)
 
-[ ] Enable Auth for more users than just the owner
+- [ ] Enable Auth for more users than just the owner
 
-[ ] Mark all emails from unsubscribed newsletters read
+- [ ] Mark all emails from unsubscribed newsletters read
 
-[ ] Move all emails from unsubscribed newsletters to special folder as fail-safe
+- [ ] Move all emails from unsubscribed newsletters to special folder as fail-safe
 
-[ ] Auto-unsubscribe (no user input) from as many emails as possible
+- [ ] Auto-unsubscribe (no user input) from as many emails as possible
